@@ -1,1 +1,4 @@
-
+### Module 03 Reflection
+Module 03 covered the "tools of the trade" of Computer Vision. Starting with a beginner's overview of Jupyter Notebooks and Jupyter Labs. The lecture discussed Machine Learning Frameworks, like Keras, Fastai, and Caffe, & Libraries, like OpenCV, TensorFlow, and PyTorch. We covered IDEs or Integrated Development Environments like Google Colab, AWS Sagemaker Studio Lab, and Azure Copilot. Lastly we learned about code repositories and collaboration platforms like GitHub and Hugging Face.
+___
+For **L03** we were individually tasked with creating a GitHub repository, creating a Jupyter Notebook with both Code Cells and Markdown Cells and then uploading the notebook to our newly created repository. This was a great refresher exercise and was the first step in becoming more familiar with GitHub as a whole. 
